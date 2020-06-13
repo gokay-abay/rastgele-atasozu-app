@@ -17,17 +17,20 @@ header {
 .card {
     text-align: center;
     width: 45em;
+    height: 15em;
+    margin: 2em;
 }
 
-.new-quote-button {
+/* .new-quote-button {
     background-color: rgb(255, 255, 255);
     border-color: rgb(5, 0, 0);
     border-radius: 20px;
     padding-left: 1em;
     padding-right: 1em;
+    margin-bottom: 1rem;
 }
 
 #button:hover {
     background-color: rgb(3, 36, 87);
     color: white;
-}
+} */
